@@ -15,6 +15,7 @@ Hi, I'm Alessandro Zoccola, a bachelor's degree CS student at University of Sale
 
 ## Future?
 - 🌱 I want to improve my React skills.
+- 🤖 I want to learn about Artificial Intelligence and Machine Learning
 - 🎨 I want to learn more about UI and UX.
 
 ## Languages, Technologies, Framework and Software I worked (and work) with:
