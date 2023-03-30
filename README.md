@@ -23,7 +23,7 @@ Hi, I'm Alessandro Zoccola, a bachelor's degree CS student at University of Sale
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png" height="35">
-<img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" height="30">
+<img src="https://www.geekandjob.com/uploads/wiki/9c5c5609505f745111ebfd93454e437a.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="30">
 
@@ -35,6 +35,5 @@ Hi, I'm Alessandro Zoccola, a bachelor's degree CS student at University of Sale
 <img src="https://blog.waltersanti.info/wp-content/uploads/2015/08/1280px-MySQL.svg_.png" height="30">
 <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30">
-<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" height="30">
 
 </p>
