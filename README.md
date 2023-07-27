@@ -9,7 +9,7 @@ Hi, I'm Alessandro Zoccola, a bachelor's degree CS student at University of Sale
 
 
 ## What I'm focusing on?
-- 🔭 I’m currently working with my team on our Human Computer Interaction exam project .
+- 🔭 I’m currently working on my Thesis project about Summarization of Code Review process.
 - 📚 I’m currently learning AI Fundamentals and Human Computer Interaction, Security Fundamentals, Theory of Computation.
 - 💻 Front-end development (HTML5, CSS3, JS, React, Bootstrap) and Back-end development (Java, Spring Boot)
 
