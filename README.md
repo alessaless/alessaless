@@ -5,17 +5,15 @@
 # Hi, I'm Alessandro! 👋🏼
 
 ## Who I am?
-Hi, I'm Alessandro Zoccola, a bachelor's degree CS student at University of Salerno in Italy. 🇮🇹
+Hi, I'm Alessandro Zoccola, a master's degree student in Software Engineering and IT Management at the University of Salerno in Italy. 🇮🇹
 
 
 ## What I'm focusing on?
-- 🔭 I’m currently working on my Thesis project about Summarization of Code Review process.
-- 📚 I’m currently learning AI Fundamentals and Human Computer Interaction, Security Fundamentals, Theory of Computation.
-- 💻 Front-end development (HTML5, CSS3, JS, React, Bootstrap) and Back-end development (Java, Spring Boot)
+- 🔭 I’m currently working on projects related to NoSQL databases and studying for the AWS Cloud Practitioner certification.
 
 ## Future?
 - 🌱 I want to improve my React skills.
-- 🤖 I want to learn about Artificial Intelligence and Machine Learning
+- ☁️ I want to delve deeper into cloud computing and enhance my knowledge in this field.
 - 🎨 I want to learn more about UI and UX.
 
 ## Languages, Technologies, Framework and Software I worked (and work) with:
