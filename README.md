@@ -35,3 +35,8 @@ Hi, I'm Alessandro Zoccola, a master's degree student in Software Engineering an
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30">
 
 </p>
+
+## Hobbies & Interests
+- 🗺️ I love traveling and exploring new places
+- ⚽️ I’m passionate about football and basketball, with Juventus being my favorite team ⚪️⚫️
+- 🛞 I’m fascinated by classic American cars and their unique history
