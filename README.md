@@ -9,12 +9,11 @@ Hi, I'm Alessandro Zoccola, a master's degree student in Software Engineering an
 
 
 ## What I'm focusing on?
-- 🔭 I’m currently working on projects related to NoSQL databases and studying for the AWS Cloud Practitioner certification.
+- 🔭 I’m currently studying for the AWS Cloud Practitioner certification, working on the Compilers exam project, and managing a development team for the Software Project Management exam.
 
 ## Future?
-- 🌱 I want to improve my React skills.
 - ☁️ I want to delve deeper into cloud computing and enhance my knowledge in this field.
-- 🎨 I want to learn more about UI and UX.
+- 🎨 I want to learn more about Human Computer Interaction.
 
 ## Languages, Technologies, Framework and Software I worked (and work) with:
 <p float="left">
@@ -29,8 +28,10 @@ Hi, I'm Alessandro Zoccola, a master's degree student in Software Engineering an
 
 <img src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png" height="30">
 <img src="https://img.icons8.com/color/480/spring-logo.png" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" height="30">
+<img src="https://www.sectigo.com/uploads/images/_950xAUTO_fit_center-center_none/golang-large.png" height="30">
+<img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" height="30">
 <img src="https://blog.waltersanti.info/wp-content/uploads/2015/08/1280px-MySQL.svg_.png" height="30">
+<img src="https://www.geekandjob.com/uploads/wiki/f5723cf71ed5aa51698d0aaf396aa08739949267.png" height="30">
 <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30">
 
