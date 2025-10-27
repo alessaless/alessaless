@@ -9,11 +9,11 @@ Hi, I'm Alessandro Zoccola, a master's degree student in Software Engineering an
 
 
 ## What I'm focusing on?
-- 🔭 I’m currently studying for the AWS Cloud Practitioner certification, working on the Compilers exam project, and managing a development team for the Software Project Management exam.
+- 🔭 I’m currently studying for the AWS Cloud Practitioner certification.
 
 ## Future?
 - ☁️ I want to delve deeper into cloud computing and enhance my knowledge in this field.
-- 🎨 I want to learn more about Human Computer Interaction.
+- 🎨 I want to learn more about Project Management.
 
 ## Languages, Technologies, Framework and Software I worked (and work) with:
 <p float="left">
